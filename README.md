@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 
-### Hi there 👋
-
-
 - 🔭 I’m currently working on Oasix Studios
 - 🌱 I’m currently learning Lua
 - 😄 Pronouns: he / is
