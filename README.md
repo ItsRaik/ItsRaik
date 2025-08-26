@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+### Hi there 👋
+
+
+- 🔭 I’m currently working on Oasix Studios
+- 🌱 I’m currently learning Lua
+- 😄 Pronouns: he / is
+
+  
 <!--
 **ItsRaik/ItsRaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
